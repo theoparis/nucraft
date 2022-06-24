@@ -4,7 +4,7 @@ Nushell x Minecraft
 
 ## Introduction
 
-This project is a collection of [nushell](https://nushell.sh) scripts.
+This project is a collection of [nushell](https://nushell.sh/book) scripts.
 In this project you can find a simple minecraft launcher, and a jar patcher.
 The jar patching script allows one to patch the java class files within minecraft.
 Then you can bundle everything together in a final jar file that can be ran using
