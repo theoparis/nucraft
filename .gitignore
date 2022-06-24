@@ -1,0 +1,14 @@
+workspace/
+*.env*
+*.log*
+*.DS_Store*
+!*.example*
+work/
+.classpath
+.settings
+.project
+.metadata
+target/
+dependency-reduced-pom.xml
+token.txt
+run/
